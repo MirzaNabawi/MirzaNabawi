@@ -2,7 +2,7 @@
 <hr>
 
 #  Hi ! Glad to see you here.
-<img align="right" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaNabawi&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+<img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaNabawi&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 I'm an Undergrad Student at Memorial University of Newfoundland, Canada. 
 My passion lies in the ever-evolving field of cybersecurity, where I'm honing my skills and expertise. I've proudly earned certifications from IBM, Google, and Microsoft, each adding a unique layer to my understanding and capabilities in keeping our digital world safe.
 
