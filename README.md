@@ -1,6 +1,6 @@
 <img align ="center" alt="coding" width="4000" src="https://media.licdn.com/dms/image/D4E16AQET9Ki5KOJ5lQ/profile-displaybackgroundimage-shrink_350_1400/0/1718736089540?e=1729123200&v=beta&t=y7h6JmqNw2MvQUqAJsEVtyrilwdoze_oJB9Q4tp65ko">
 
-#  Great to See You Here !
+#  Good to See You Here !
 
 I'm an Undergrad Student at Memorial University of Newfoundland, Canada.
 My passion lies in the ever-evolving field of cybersecurity, where I'm honing my skills and expertise. I've proudly earned certifications from IBM, Google, and Microsoft, each adding a unique layer to my understanding and capabilities in keeping our digital world safe.
