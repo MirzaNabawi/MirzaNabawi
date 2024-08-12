@@ -2,14 +2,14 @@
 <hr>
 
 #  Hi ! Glad to see you here.
-<img align="right" align="bottom" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaNabawi&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+<img align="right" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaNabawi&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 I'm an Undergrad Student at Memorial University of Newfoundland, Canada. 
 My passion lies in the ever-evolving field of cybersecurity, where I'm honing my skills and expertise. I've proudly earned certifications from IBM, Google, and Microsoft, each adding a unique layer to my understanding and capabilities in keeping our digital world safe.
 
-But my journey doesn't stop there. I'm deeply committed to making a positive impact in the lives of others. This passion has led me to earn certifications from UNICEF reflecting my dedication to helping people and ensuring they can live safe and peaceful lives. Whether it's through safeguarding 
-digital infrastructures or supporting humanitarian efforts,<br> I'm all in!
+<br>But my journey doesn't stop there. I'm deeply committed to making a positive impact in the lives of others. This passion has led me to earn certifications from UNICEF reflecting my dedication to helping people and ensuring they can live safe and peaceful lives. Whether it's through safeguarding 
+digital infrastructures or supporting humanitarian efforts, I'm all in!
 
-I'm always on the lookout for opportunities to learn more, collaborate with amazing people, and contribute to meaningful projects. Let's connect and see how we can work together to create a safer, more secure, and happier world for everyone.
+I'm always on the lookout for opportunities to learn more, collaborate with amazing people, and contribute to meaningful projects.<br> Let's connect and see how we can work together to create a safer, more secure, and happier world for everyone.
 
 <br>💬 Ask me about Python & Cybersecurity ➡️ mnabawi@mun.ca <hr>
 
