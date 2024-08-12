@@ -2,7 +2,7 @@
 <img align ="center" alt="coding" width="4000" src="https://media.licdn.com/dms/image/D4E16AQET9Ki5KOJ5lQ/profile-displaybackgroundimage-shrink_350_1400/0/1718736089540?e=1729123200&v=beta&t=y7h6JmqNw2MvQUqAJsEVtyrilwdoze_oJB9Q4tp65ko">
 
 # 💫 About Me:
-➡️Computer Science Student Building a Career in Cybersecurity<br>🔭 I’m currently working on building Python Projects as I learn everyday about this lanaguage<br>👯 I’m looking to collaborate on GitHub, YouTube & Instagram <br>🤝 I’m looking for help with Content Creation and Boosting <br>🌱 I’m currently learning about Penetration Testing & Web Security <br>💬 Ask me about Python & Cybersecurity <br>⚡ Fun fact I can create professional websites and videos to promote them  
+➡️ Computer Science Student Building a Career in Cybersecurity<br>🔭 I’m currently working on building Python Projects as I learn everyday about this lanaguage<br>👯 I’m looking to collaborate on GitHub, YouTube & Instagram <br>🤝 I’m looking for help with Content Creation and Boosting <br>🌱 I’m currently learning about Penetration Testing & Web Security <br>💬 Ask me about Python & Cybersecurity <br>⚡ Fun fact I can create professional websites and videos to promote them  
 
 
 ## 🌐 Socials:
