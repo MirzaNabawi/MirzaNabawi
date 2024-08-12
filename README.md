@@ -5,7 +5,7 @@
 ➡️ Computer Science Student Building a Career in Cybersecurity<br>🔭 I’m currently working on building Python Projects as I learn everyday about this lanaguage<br>👯 I’m looking to collaborate on GitHub, YouTube & Instagram <br>🤝 I’m looking for help with Content Creation and Boosting <br>🌱 I’m currently learning about Penetration Testing & Web Security <br>💬 Ask me about Python & Cybersecurity ➡️ mnabawi@mun.ca <br>⚡ Fun fact I can create professional websites and videos to promote them  
 
 
-##  Socials:
+#  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mizcodes/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirza-nabawi/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MizCodes) 
 
 #  Tech Stack:
