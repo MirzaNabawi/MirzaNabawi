@@ -73,13 +73,14 @@ I'm always on the lookout for opportunities to learn more, collaborate with amaz
 
 #  💡 Dev Quote 💡
 
-<img align= "right" width="100" height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/>
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
 
 #  🔝 Top Contributed Repo
+
+<img align= "right" width="200" height="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/>
+
 ![](https://github-contributor-stats.vercel.app/api?username=MirzaNabawi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
