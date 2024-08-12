@@ -16,12 +16,12 @@ I'm always on the lookout for opportunities to learn more, collaborate with amaz
 #  ⬇️ Socials to Teach my Expertise
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/mirza-nabawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/mirza-nabawi" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/mizcodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mizcodes/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@mizcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@mizcodes" height="70" width="40" /></a>
+<a href="https://linkedin.com/in/mirza-nabawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/mirza-nabawi" height="30" width="40" /></a>
+<a href="https://instagram.com/mizcodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mizcodes/" height="30" width="40" /></a>
+<a href="https://youtube.com/@mizcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@mizcodes" height="70" width="40" /></a>
 <h3 align="left">Verify My Skills:</h3>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/nabawizaman20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/nabawizaman20" height="70" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vef6junanb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vef6junanb/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/nabawizaman20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/nabawizaman20" height="70" width="40" /></a>
+<a href="https://leetcode.com/u/vef6junanb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vef6junanb/" height="30" width="40" /></a>
 </p>
 <hr>
 
