@@ -1,5 +1,7 @@
+<img align ="center" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4E16AQET9Ki5KOJ5lQ/profile-displaybackgroundimage-shrink_350_1400/0/1718736089540?e=1729123200&v=beta&t=y7h6JmqNw2MvQUqAJsEVtyrilwdoze_oJB9Q4tp65ko">
+
 # 💫 About Me:
-<img align ="right" alt="coding" height ="200" width="200" src="https://spg-images.s3.us-west-1.amazonaws.com/21053899-2c67-45d5-9cb0-12fd8cc926b1">
+
 🔭 I’m currently working on building Python Projects as I learn everyday about this lanaguage<br>👯 I’m looking to collaborate on GitHub, YouTube & Instagram <br>🤝 I’m looking for help with Content Creation and Boosting <br>🌱 I’m currently learning about Penetration Testing & Web Security <br>💬 Ask me about Python & Cybersecurity <br>⚡ Fun fact I can create insane websites and videos to promote them  :)
 
 
@@ -13,8 +15,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MirzaNabawi&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaNabawi&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MirzaNabawi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MirzaNabawi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MirzaNabawi&icon=0&color=0)](https://visitcount.itsvg.in)
