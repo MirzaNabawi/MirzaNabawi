@@ -10,13 +10,20 @@ digital infrastructures or supporting humanitarian efforts,<br> I'm all in!
 
 I'm always on the lookout for opportunities to learn more, collaborate with amazing people, and contribute to meaningful projects. Let's connect and see how we can work together to create a safer, more secure, and happier world for everyone.
 
-<br>💬 Ask me about Python & Cybersecurity ➡️ mnabawi@mun.ca 
+<br>💬 Ask me about Python & Cybersecurity ➡️ mnabawi@mun.ca <hr>
 
 
 #  ⬇️ Socials to Teach my Expertise
-[![Instagram](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-75.png)](https://instagram.com/mizcodes/) 
-<img width ="69" height="69" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" a href = "https://linkedin.com/in/mirza-nabawi">
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MizCodes) 
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/mirza-nabawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/mirza-nabawi" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/mizcodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mizcodes/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@mizcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@mizcodes" height="70" width="40" /></a>
+<h3 align="left">Verify My Skills:</h3>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/nabawizaman20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/nabawizaman20" height="70" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/vef6junanb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vef6junanb/" height="30" width="40" /></a>
+</p>
+<hr>
 
 #  🚀 GitHub Stats and Achievements
 
@@ -66,9 +73,12 @@ I'm always on the lookout for opportunities to learn more, collaborate with amaz
 
 #  💡 Dev Quote💡
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="140" height="140" />
+<img align= "right" width="100" height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+
+
 
 #  🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MirzaNabawi&limit=5&theme=dark&combine_all_yearly_contributions=true)
