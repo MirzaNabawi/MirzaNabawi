@@ -71,7 +71,7 @@ I'm always on the lookout for opportunities to learn more, collaborate with amaz
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
-#  💡 Dev Quote💡
+#  💡 Dev Quote 💡
 
 <img align= "right" width="100" height="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"/>
 
