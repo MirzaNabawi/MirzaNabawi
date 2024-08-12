@@ -2,7 +2,14 @@
 <img align ="center" alt="coding" width="4000" src="https://media.licdn.com/dms/image/D4E16AQET9Ki5KOJ5lQ/profile-displaybackgroundimage-shrink_350_1400/0/1718736089540?e=1729123200&v=beta&t=y7h6JmqNw2MvQUqAJsEVtyrilwdoze_oJB9Q4tp65ko">
 
 #  About Me:
-➡️ Computer Science Student Building a Career in Cybersecurity<br>🔭 I’m currently working on building Python Projects as I learn everyday about this lanaguage<br>👯 I’m looking to collaborate on GitHub, YouTube & Instagram <br>🤝 I’m looking for help with Content Creation and Boosting <br>🌱 I’m currently learning about Penetration Testing & Web Security <br>💬 Ask me about Python & Cybersecurity ➡️ mnabawi@mun.ca <br>⚡ Fun fact I can create professional websites and videos to promote them  
+I'm an Undergrad Student at Memorial University of Newfoundland, Canada.
+My passion lies in the ever-evolving field of cybersecurity, where I'm honing my skills and expertise. I've proudly earned certifications from IBM, Google, and Microsoft, each adding a unique layer to my understanding and capabilities in keeping our digital world safe.
+
+But my journey doesn't stop there. I'm deeply committed to making a positive impact in the lives of others. This passion has led me to earn certifications from UNICEF reflecting my dedication to helping people and ensuring they can live safe and peaceful lives. Whether it's through safeguarding digital infrastructures or supporting humanitarian efforts, I'm all in!
+
+I'm always on the lookout for opportunities to learn more, collaborate with amazing people, and contribute to meaningful projects. Let's connect and see how we can work together to create a safer, more secure, and happier world for everyone.
+
+<br>💬 Ask me about Python & Cybersecurity ➡️ mnabawi@mun.ca 
 
 
 #  Socials:
